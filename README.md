@@ -6,3 +6,5 @@ Recipe List and Details: Browse recipes by category, view detailed information, 
 Widget Support: A widget extension displays timely recipe suggestions.
 Custom Gestures: Interactive gestures designed to improve recipe navigation.
 Favorite Management: Easily add or remove favorite recipes and view them in a dedicated section.
+
+Miro board : https://miro.com/app/board/uXjVLTaFcuQ=/?share_link_id=872323717925
